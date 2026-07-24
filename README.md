@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Nitu
+#  Nitu
 
 ### 🚀 DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins
 
