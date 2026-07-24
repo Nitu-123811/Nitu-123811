@@ -1,11 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey,%20I'm%20Nitu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20|%20Cloud%20|%20AWS%20|%20Docker%20|%20Kubernetes&descAlignY=60"/>
+
 <div align="center">
 
 # 👋 Hey, I'm Nitu
 
 ### 🚀 DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+AWS;Docker+%7C+Kubernetes+%7C+Jenkins;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+with+Jenkins;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 </div>
@@ -21,37 +23,41 @@
 - 🚀 Building Real-World DevOps Projects
 - 🎯 Goal: Become a DevOps Engineer
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
+
 ---
 
 # 🛠️ Tech Stack
 
 ### ☁️ Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### ⚙️ DevOps
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,bash" />
 </p>
 
 ### 💻 Programming
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ### 🧰 Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
@@ -60,34 +66,24 @@
 # 🚀 Featured Projects
 
 ## ☁️ AI Cloud File Management System
-
 - AWS S3
 - Flask
 - JWT Authentication
 - Secure File Upload & Download
 
----
-
 ## 💰 Expense Tracker
-
 - Flask
 - Bootstrap
 - SQLite
 - Dashboard & Reports
 
----
-
 ## 👥 Customer Relationship Management
-
 - HTML
 - CSS
 - JavaScript
 - MySQL
 
----
-
 ## 📝 Notes App
-
 - Django
 - React
 - Docker
@@ -95,24 +91,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitu-123811&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitu-123811&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Nitu-123811&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -120,12 +102,8 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitu-123811&theme=tokyo-night"/>
-
 </p>
-
----
 
 ---
 
@@ -143,28 +121,30 @@
 
 ---
 
----
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nitu-garg-629ba0325">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:nitugarg122@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
 ---
 
 <div align="center">
 
 ### ⭐ Building • Learning • Deploying Real-World DevOps Projects ⭐
 
-<img src="https://komarev.com/ghpvc/?username=Nitu-123811&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Nitu-123811&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
