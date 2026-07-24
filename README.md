@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Nitu 
 
-### 🚀 DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins
+### 🚀 DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins | Python
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+with+Jenkins;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
