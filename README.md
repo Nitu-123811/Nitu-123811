@@ -151,28 +151,25 @@
 
 ---
 
+---
+
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nitu-garg-629ba0325">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nitu-garg-629ba0325" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nitugarg122@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 </p>
 
-<p align="center">
-
-📧 <b>Email:</b> nitugarg122@gmail.com
-
-💼 <b>LinkedIn:</b> https://www.linkedin.com/in/nitu-garg-629ba0325
-
-</p>
-
+---
 ---
 
 <div align="center">
