@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nitu Garg
+# 👋 Hi, I'm Nitu 
 
 ### 🚀 DevOps & Cloud Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux
 
