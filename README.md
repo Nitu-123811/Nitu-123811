@@ -64,8 +64,7 @@
 - AWS S3
 - Flask
 - JWT Authentication
-- Secure File Upload
-- Admin Dashboard
+- Secure File Upload & Download
 
 ---
 
@@ -74,8 +73,7 @@
 - Flask
 - Bootstrap
 - SQLite
-- Dashboard
-- Reports
+- Dashboard & Reports
 
 ---
 
@@ -113,7 +111,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitu-123811&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Nitu-123811&theme=tokyonight"/>
 
 </p>
 
@@ -129,7 +127,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -139,31 +137,48 @@
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 DevOps & Cloud Focus
 
-<p align="left">
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/nitu-garg-629ba0325">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:nitugarg122@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-📧 **Email:** nitugarg122@gmail.com
+<p align="center">
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/nitu-garg-629ba0325
+📧 <b>Email:</b> nitugarg122@gmail.com
+
+💼 <b>LinkedIn:</b> https://www.linkedin.com/in/nitu-garg-629ba0325
+
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Building • Learning • Deploying Real-World DevOps Projects ⭐
+### ⭐ Building • Learning • Deploying Real-World DevOps Projects ⭐
 
-![](https://komarev.com/ghpvc/?username=Nitu-123811&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Nitu-123811&style=for-the-badge&color=blue"/>
 
 </div>
