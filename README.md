@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Nitu 
+# 👋 Hey, I'm Nitu
 
-### 🚀 DevOps & Cloud Enthusiast | AWS | Docker | Kubernetes | Jenkins | Linux
+### 🚀 DevOps | Cloud | AWS | Docker | Kubernetes | Jenkins
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+with+Jenkins;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+AWS;Docker+%7C+Kubernetes+%7C+Jenkins;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 </div>
