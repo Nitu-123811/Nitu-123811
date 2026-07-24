@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1E3A8A&height=220&section=header&text=Hey,%20I'm%20Nitu&fontSize=42&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1E3A8A&height=220&section=header&text=NITU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20|%20Cloud%20|%20AWS%20|%20Docker%20|%20Kubernetes&descAlignY=60"/>
 
 <div align="center">
 
