@@ -127,14 +127,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nitu-123811&theme=algolia&margin-w=10"/>
-
-</p>
-
 ---
 
 # 🏆 DevOps & Cloud Focus
