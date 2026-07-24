@@ -153,20 +153,18 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/nitu-garg-629ba0325" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nitugarg122@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-
 </p>
 
 ---
